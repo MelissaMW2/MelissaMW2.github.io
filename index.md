@@ -1,4 +1,6 @@
-## Welcome to GitHub Pages
+## Welcome to Melissa's GitHub Page
+
+
 
 You can use the [editor on GitHub](https://github.com/MelissaMW2/MelissaMW2.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
@@ -13,7 +15,14 @@ Syntax highlighted code block
 
 # Header 1
 ## Header 2
-### Header 3
+
+### Homework Week 2
+[Homework week 2 - Assignment JavaScript linegraph](https://github.com/MelissaMW2/DataProcessing/tree/master/Homework/Week-2/data3.html)
+
+### Homework Week 3
+[Homework week 3 - Assignment D3 barchart](https://github.com/MelissaMW2/DataProcessing/tree/master/Homework/Week-3/barchart.html)
+
+### Homework Week 4
 
 - Bulleted
 - List

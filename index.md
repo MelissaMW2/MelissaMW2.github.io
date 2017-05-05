@@ -10,6 +10,8 @@ Access my attempts for the weekly assignments for DataProcessing 2016-2017 Secon
 
 ### Homework Week 4
 [Homework week 4 - Assignment D3 Scatterplot](https://github.com/MelissaMW2/DataProcessing/blob/master/Homework/Week-4/scatterplot.html)
+
 [Homework week 4 - Assignment test.svg](https://github.com/MelissaMW2/DataProcessing/blob/master/Homework/Week-4/test.svg)
+
 Melissa Wijngaarden - 10810412
 

@@ -1,4 +1,4 @@
-## Welcome to your tape
+## Welcome to Melissa's Git Hub pages!
 
 Access my attempts for the weekly assignments for DataProcessing 2016-2017 Second Semester via the links below.
 
@@ -6,9 +6,10 @@ Access my attempts for the weekly assignments for DataProcessing 2016-2017 Secon
 [Homework week 2 - Assignment JavaScript linegraph](https://github.com/MelissaMW2/DataProcessing/tree/master/Homework/Week-2/data3.html)
 
 ### Homework Week 3
-[Homework week 3 - Assignment D3 barchart](https://github.com/MelissaMW2/DataProcessing/tree/master/Homework/Week-3/barchart.html)
+[Homework week 3 - Assignment D3 Barchart](https://github.com/MelissaMW2/DataProcessing/tree/master/Homework/Week-3/barchart.html)
 
 ### Homework Week 4
+[Homework week 4 - Assignment D3 Scatterplot](https://github.com/MelissaMW2/DataProcessing/blob/master/Homework/Week-4/scatterplot.html)
 
 Melissa Wijngaarden - 10810412
 

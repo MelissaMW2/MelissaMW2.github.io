@@ -13,5 +13,11 @@ Access my attempts for the weekly assignments for DataProcessing 2016-2017 Secon
 
 [Homework week 4 - Assignment test.svg](https://github.com/MelissaMW2/DataProcessing/blob/master/Homework/Week-4/test.svg)
 
+### Homework Week 5
+[Homework week 4 - Assignment Linegraph](https://melissamw2.github.io/DataProcessing/Homework/Week-5/mslinegraph.html)
+
+### Homework Week 6
+[Homework week 6 - Assignment Linked Views](https://melissamw2.github.io/DataProcessing/Homework/Week-6/interactive.html)
+
 Melissa Wijngaarden - 10810412
 

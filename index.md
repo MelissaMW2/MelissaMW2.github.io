@@ -19,5 +19,8 @@ Access my attempts for the weekly assignments for DataProcessing 2016-2017 Secon
 ### Homework Week 6
 [Homework week 6 - Assignment Linked Views](https://melissamw2.github.io/DataProcessing/Homework/Week-6/interactive.html)
 
+### Homework Week 7
+[Homework week 7 - Assignment Linked Views II](https://melissamw2.github.io/DataProcessing/Homework/Week-7/interactive.html)
+
 Melissa Wijngaarden - 10810412
 
